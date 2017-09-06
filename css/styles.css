@@ -1,19 +1,19 @@
 h1 {
-   color: darkred;
-   text-align: center;
+   color: #000000;
+   text-align: left;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: #b3b3b3;
 }
 
 p {
-  color: crimson;
+  color: #000000;
 }
 
 body {
-  background-color: salmon;
+  background-color: #99ff99;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
 }
